@@ -12,7 +12,7 @@ const Header = () => (
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
         Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat
         morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet
-        tellus{" "}
+        tellus
       </p>
       <button type="button" className="custom__button">
         Explore Menu
